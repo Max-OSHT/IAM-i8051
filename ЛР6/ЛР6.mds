@@ -1,0 +1,83 @@
+[Opened]
+Count=1
+File0=C:\Users\clay0\OneDrive\Рабочий стол\STUDY\Микроконтроллеры\2 сем\ЛР6\ЛР6.asm
+File0CursorX=58
+File0CursorY=19
+File0OffsetX=1
+File0OffsetY=3
+File0Bookmarks=;;;;;;;;;
+File0BreakCount=0
+PageIndex=0
+[ProjectFiles]
+Count=1
+File0=C:\Users\clay0\OneDrive\Рабочий стол\STUDY\Микроконтроллеры\2 сем\ЛР6\ЛР6.asm
+File0CursorX=58
+File0CursorY=19
+File0OffsetX=1
+File0OffsetY=3
+File0Bookmarks=;;;;;;;;;
+File0BreakCount=0
+
+[Browser]
+Filter=*
+Filter0=*
+Labels=1
+Registers=1
+Space0=1
+Space1=1
+Space2=1
+Space3=1
+Space4=1
+Space5=1
+Space6=1
+File=( все файлы )
+FilterVisible=0
+Sort=1
+
+[Watches]
+Count=1
+Item0=Просмотр
+
+[Watches.Просмотр]
+Count=8
+IsC0=0
+Item0=R1 : byte
+Format0=4
+Trace0=0
+IsC1=0
+Item1=R2 : byte
+Format1=0
+Trace1=0
+IsC2=0
+Item2=R3 : byte
+Format2=0
+Trace2=0
+IsC3=0
+Item3=R4 : byte
+Format3=0
+Trace3=0
+IsC4=0
+Item4=R5 : byte
+Format4=0
+Trace4=0
+IsC5=0
+Item5=R6 : byte
+Format5=0
+Trace5=0
+IsC6=0
+Item6=R7 : byte
+Format6=0
+Trace6=0
+IsC7=0
+Item7=R0 : byte
+Format7=4
+Trace7=0
+
+[Trace]
+Mode=2
+ResetBeforeRun=1
+RelativeTime=0
+CycleTime=0
+DeleteOldRecords=1
+RecordCount=50
+CyclesPerGraph=100

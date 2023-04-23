@@ -1,0 +1,4 @@
+<all>: ËÐ3.mp
+<files>: ËÐ3.mcp ËÐ3.mcu
+ËÐ3.mcu: ËÐ3.asm
+ËÐ3.mp: <files>

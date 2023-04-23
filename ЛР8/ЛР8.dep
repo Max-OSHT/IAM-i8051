@@ -1,0 +1,4 @@
+<all>: ËÐ8.mp
+<files>: ËÐ8.mcp ËÐ8.mcu
+ËÐ8.mcu: ËÐ8.asm
+ËÐ8.mp: <files>
